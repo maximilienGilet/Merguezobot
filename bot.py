@@ -113,6 +113,15 @@ N'importe quel homme un minimum entraîné peut doubler une voiture dans le sinu
 """,
 """
 enfants de 19kg, mawashigueri, tourne retourne, couteau jaune, coupe en cubes, marmite rouge, feu vif et voila, c'est prêt, donne aux cochons
+""",
+"""
+Je rage des prix des Daytona, je rage des gens qui disent que les petites cylindrées c'est nul, je rage sur moi-même, je rage contre les Twingo et les fiat 500, je rage contre mon ex, je rage contre les MT-07 sauf celles de Bob, je rage du charisme du Tronchet, je rage du chien du Guido, je rage quand on dit chocolatine, je rage quand on me dit comment faire des quiches lorraines (cc Gαuvαin )
+""",
+"""
+La violence du pilotage :smirk::heart_eyes: et ce bruit ? La première raison pour laquelle je passe le permis moto : faire de la piste ayant soif de vitesse et d'adrénaline :smirk::sweat_smile: deja que sur route en moto école je penche fort j'accélère quelques peu fort par moment je suis pas trop fait pour rouler sur route ouverte, chacun son profil de conduite :sweat_smile: au moins je me mettrais pas en danger sur piste, ou beaucoup moins :sweat_smile: et je pourrai ouvrir les gaz en grand sans risquer ma peau et celle des autres usagers :wink:
+""",
+"""
+Rien à foutre ! Moi je roule en Monter 620ie :smirk: Pat'patrouille, pom'potes et Rock'n'rol... j'ai mon namoureuse qui roule aussi mais j'aime trop notre club house,le kif de ce faire ''sucer'' avec un Candy'up à la main par une invitée...je mate pas vos portraits ni mp,quand tu es à 50 bornes de panam les clubs sa circule...ont a ce qui faut sans Facebook...:wink:
 """
 ]
 
