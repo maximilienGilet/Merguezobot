@@ -173,7 +173,7 @@ async def cp(ctx):
     help="Trouve une merguez sur motoplanete",
     brief="Trouve une merguez sur motoplanete, tu peux même mettre l'année !"
 )
-async def mergez(ctx, args):
+async def merguez(ctx, args):
     search = args
     searchData = {
         "nom": search
